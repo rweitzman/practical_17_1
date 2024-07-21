@@ -60,3 +60,6 @@ Customer Segmentation:
 
 Use clustering to segment customers and tailor marketing efforts accordingly.
 These steps will help optimize the bank's marketing campaigns, improving customer engagement and increasing term deposit subscriptions.
+
+Notebook:
+https://github.com/rweitzman/practical_17_1.git
